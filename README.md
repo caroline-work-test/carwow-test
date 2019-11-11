@@ -1,7 +1,5 @@
 # Carwow test
 
-DEMO: https://example
-
 (Note: Please read further for the assumptions I made while completing this test.)
 
 ## Setup
