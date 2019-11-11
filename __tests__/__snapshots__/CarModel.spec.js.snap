@@ -1,0 +1,187 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CarModel should render correctly 1`] = `
+<div
+  className="jsx-1526905960"
+>
+  <CarHeader
+    lead="Car details."
+  />
+  <div
+    className="jsx-1526905960 CarModel_Container"
+  >
+    <div
+      className="jsx-1526905960 CarModel_Item"
+    >
+      <section
+        className="jsx-1526905960 CarModel_Section"
+      >
+        <div
+          className="jsx-1526905960 CarModel_Header"
+        >
+          <h2
+            className="jsx-1526905960"
+          >
+            Make
+          </h2>
+          <p
+            className="jsx-1526905960"
+          >
+            Volvo
+          </p>
+        </div>
+        <div
+          className="jsx-1526905960 CarModel_Header"
+        >
+          <h2
+            className="jsx-1526905960"
+          >
+            Model
+          </h2>
+          <p
+            className="jsx-1526905960"
+          >
+            XC40
+          </p>
+        </div>
+        <h3
+          className="jsx-1526905960"
+        >
+          Rating
+        </h3>
+        <div
+          className="jsx-1526905960"
+        >
+          <span
+            className="jsx-1526905960 Rating_Star"
+          />
+          <p
+            className="jsx-1526905960 Rating_Number"
+          >
+            9
+            /10
+          </p>
+        </div>
+        <div
+          className="jsx-1526905960"
+        >
+          <h3
+            className="jsx-1526905960"
+          >
+            <abbr
+              className="jsx-1526905960"
+              title="Recommended Retail Price"
+            >
+              RRP
+            </abbr>
+          </h3>
+          <p
+            className="jsx-1526905960 RRP"
+          >
+            £
+            28965
+          </p>
+        </div>
+        <button
+          className="jsx-1526905960 Button"
+          disabled={true}
+        >
+          Get Offers
+        </button>
+      </section>
+      <img
+        alt="Volvo XC40"
+        className="jsx-1526905960"
+        src="https://warm-dawn-92320.herokuapp.com/img/volvo_xc40.png"
+      />
+      <section
+        className="jsx-1526905960"
+      >
+        <p
+          className="jsx-1526905960"
+        >
+          Handsome on the outside and sophisticated on the inside, the Volvo XC40 is a spacious small SUV with smart styling and which is comfortable to drive.
+        </p>
+        <h3
+          className="jsx-1526905960"
+        >
+          Available Colors
+        </h3>
+        <ul
+          className="jsx-1526905960"
+        >
+          <li
+            className="jsx-1526905960 Color_List"
+            key="0"
+          >
+            <span
+              className="jsx-1526905960 Color_Box"
+              style={
+                Object {
+                  "backgroundColor": "#ffffff",
+                }
+              }
+            />
+            <p
+              className="jsx-1526905960 Color_Name"
+            >
+              White
+            </p>
+          </li>
+          <li
+            className="jsx-1526905960 Color_List"
+            key="1"
+          >
+            <span
+              className="jsx-1526905960 Color_Box"
+              style={
+                Object {
+                  "backgroundColor": "#d3d3d3",
+                }
+              }
+            />
+            <p
+              className="jsx-1526905960 Color_Name"
+            >
+              Timberwolf
+            </p>
+          </li>
+          <li
+            className="jsx-1526905960 Color_List"
+            key="2"
+          >
+            <span
+              className="jsx-1526905960 Color_Box"
+              style={
+                Object {
+                  "backgroundColor": "#cc0000",
+                }
+              }
+            />
+            <p
+              className="jsx-1526905960 Color_Name"
+            >
+              Red Orange
+            </p>
+          </li>
+        </ul>
+        <h3
+          className="jsx-1526905960"
+        >
+          Recommended Engine
+        </h3>
+        <p
+          className="jsx-1526905960"
+        >
+          1.5 T3 163
+        </p>
+      </section>
+    </div>
+  </div>
+  <JSXStyle
+    id="1526905960"
+  >
+    .CarModel_Section.jsx-1526905960{display:inline-block;}.CarModel_Header.jsx-1526905960{display:inline-block;margin-right:50px;}.CarModel_Container.jsx-1526905960{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}.CarModel_Item.jsx-1526905960{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-flex-direction:row-reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse;-webkit-box-pack:space-around;-webkit-justify-content:space-around;-ms-flex-pack:space-around;justify-content:space-around;height:auto;width:60%;margin:auto;padding:10px;border:solid 1px #b1b1b1;background-color:white;}.RRP.jsx-1526905960{font-weight:bold;}.Color_Box.jsx-1526905960{width:70px;height:30px;display:block;border-style:solid;border-width:1px;}.Rating_Star.jsx-1526905960{background:url(../../../assets/star.svg);background-repeat:no-repeat;}.Color_Name.jsx-1526905960{margin-top:5px;}.Color_List.jsx-1526905960{display:inline-block;margin-right:30px;}.Button.jsx-1526905960{background-color:#4CAF50;border:none;color:white;padding:15px 32px;text-align:center;-webkit-text-decoration:none;text-decoration:none;display:inline-block;font-size:16px;}.Button.jsx-1526905960:disabled{background-color:grey;}
+  </JSXStyle>
+</div>
+`;

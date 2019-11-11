@@ -1,0 +1,869 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CarGrid should render correctly 1`] = `
+<div
+  className="jsx-3831996418"
+>
+  <div
+    className="jsx-3831996418 CarGrid_Container"
+  >
+    <ol
+      className="jsx-3831996418 CarGrid_List"
+    >
+      <li
+        className="jsx-3831996418 CarGrid_ListItem"
+        key="1"
+      >
+        <div
+          className="jsx-3831996418 CarGrid_GridItem"
+        >
+          <section
+            className="jsx-3831996418 CarGrid_Section"
+          >
+            <h2
+              className="jsx-3831996418"
+            >
+              <Link
+                href="/model/Volvo_XC40/1"
+              >
+                <a
+                  className="jsx-3831996418 CarGrid_Link"
+                >
+                  Volvo XC40
+                </a>
+              </Link>
+            </h2>
+            <Link
+              href="/model/Volvo_XC40/1"
+            >
+              <a
+                className="jsx-3831996418 CarGrid_LinkImg"
+              >
+                <img
+                  alt="Volvo XC40"
+                  className="jsx-3831996418"
+                  src="https://warm-dawn-92320.herokuapp.com/img/volvo_xc40.png"
+                />
+              </a>
+            </Link>
+            <p
+              className="jsx-3831996418"
+            >
+              Handsome on the outside and sophisticated on the inside, the Volvo XC40 is a spacious small SUV with smart styling and which is comfortable to drive.
+            </p>
+          </section>
+          <section
+            className="jsx-3831996418 CarGrid_Section__Width"
+          >
+            <div
+              className="jsx-3831996418 CarGrid_Rating"
+            >
+              <h3
+                className="jsx-3831996418"
+              >
+                Rating
+              </h3>
+              <div
+                className="jsx-3831996418"
+              >
+                <span
+                  className="jsx-3831996418 Rating_Star"
+                />
+                <p
+                  className="jsx-3831996418 Rating_Number"
+                >
+                  9
+                  /10
+                </p>
+              </div>
+            </div>
+            <div
+              className="jsx-3831996418 CarGrid_Section__Dark"
+            >
+              <Link
+                href="/model/Volvo_XC40/1"
+              >
+                <a
+                  className="jsx-3831996418 CarGrid_Link"
+                >
+                  <h3
+                    className="jsx-3831996418"
+                  >
+                    <abbr
+                      className="jsx-3831996418"
+                      title="Recommended Retail Price"
+                    >
+                      RRP
+                    </abbr>
+                  </h3>
+                </a>
+              </Link>
+              <Link
+                href="/model/Volvo_XC40/1"
+              >
+                <a
+                  className="jsx-3831996418 CarGrid_Link"
+                >
+                  <p
+                    className="jsx-3831996418 CarGrid_Price"
+                  >
+                    £
+                    28965
+                  </p>
+                </a>
+              </Link>
+            </div>
+          </section>
+        </div>
+      </li>
+      <li
+        className="jsx-3831996418 CarGrid_ListItem"
+        key="2"
+      >
+        <div
+          className="jsx-3831996418 CarGrid_GridItem"
+        >
+          <section
+            className="jsx-3831996418 CarGrid_Section"
+          >
+            <h2
+              className="jsx-3831996418"
+            >
+              <Link
+                href="/model/Volkswagen_Golf/2"
+              >
+                <a
+                  className="jsx-3831996418 CarGrid_Link"
+                >
+                  Volkswagen Golf
+                </a>
+              </Link>
+            </h2>
+            <Link
+              href="/model/Volkswagen_Golf/2"
+            >
+              <a
+                className="jsx-3831996418 CarGrid_LinkImg"
+              >
+                <img
+                  alt="Volkswagen Golf"
+                  className="jsx-3831996418"
+                  src="https://warm-dawn-92320.herokuapp.com/img/volkswagen_golf.png"
+                />
+              </a>
+            </Link>
+            <p
+              className="jsx-3831996418"
+            >
+              The VW Golf is a great all-rounder that feels consistently good in almost every area. However, it’s dearer than some alternatives and parts of the interior feel low-rent.
+            </p>
+          </section>
+          <section
+            className="jsx-3831996418 CarGrid_Section__Width"
+          >
+            <div
+              className="jsx-3831996418 CarGrid_Rating"
+            >
+              <h3
+                className="jsx-3831996418"
+              >
+                Rating
+              </h3>
+              <div
+                className="jsx-3831996418"
+              >
+                <span
+                  className="jsx-3831996418 Rating_Star"
+                />
+                <p
+                  className="jsx-3831996418 Rating_Number"
+                >
+                  8
+                  /10
+                </p>
+              </div>
+            </div>
+            <div
+              className="jsx-3831996418 CarGrid_Section__Dark"
+            >
+              <Link
+                href="/model/Volkswagen_Golf/2"
+              >
+                <a
+                  className="jsx-3831996418 CarGrid_Link"
+                >
+                  <h3
+                    className="jsx-3831996418"
+                  >
+                    <abbr
+                      className="jsx-3831996418"
+                      title="Recommended Retail Price"
+                    >
+                      RRP
+                    </abbr>
+                  </h3>
+                </a>
+              </Link>
+              <Link
+                href="/model/Volkswagen_Golf/2"
+              >
+                <a
+                  className="jsx-3831996418 CarGrid_Link"
+                >
+                  <p
+                    className="jsx-3831996418 CarGrid_Price"
+                  >
+                    £
+                    22080
+                  </p>
+                </a>
+              </Link>
+            </div>
+          </section>
+        </div>
+      </li>
+      <li
+        className="jsx-3831996418 CarGrid_ListItem"
+        key="3"
+      >
+        <div
+          className="jsx-3831996418 CarGrid_GridItem"
+        >
+          <section
+            className="jsx-3831996418 CarGrid_Section"
+          >
+            <h2
+              className="jsx-3831996418"
+            >
+              <Link
+                href="/model/Mercedes_GLC SUV/3"
+              >
+                <a
+                  className="jsx-3831996418 CarGrid_Link"
+                >
+                  Mercedes GLC SUV
+                </a>
+              </Link>
+            </h2>
+            <Link
+              href="/model/Mercedes_GLC SUV/3"
+            >
+              <a
+                className="jsx-3831996418 CarGrid_LinkImg"
+              >
+                <img
+                  alt="Mercedes GLC SUV"
+                  className="jsx-3831996418"
+                  src="https://warm-dawn-92320.herokuapp.com/img/mercedes_glc_suv.png"
+                />
+              </a>
+            </Link>
+            <p
+              className="jsx-3831996418"
+            >
+              The Mercedes GLC is an elegant SUV that looks and feels like a true premium product, but alternatives have fancier tech and are more fun to drive.
+            </p>
+          </section>
+          <section
+            className="jsx-3831996418 CarGrid_Section__Width"
+          >
+            <div
+              className="jsx-3831996418 CarGrid_Rating"
+            >
+              <h3
+                className="jsx-3831996418"
+              >
+                Rating
+              </h3>
+              <div
+                className="jsx-3831996418"
+              >
+                <span
+                  className="jsx-3831996418 Rating_Star"
+                />
+                <p
+                  className="jsx-3831996418 Rating_Number"
+                >
+                  8
+                  /10
+                </p>
+              </div>
+            </div>
+            <div
+              className="jsx-3831996418 CarGrid_Section__Dark"
+            >
+              <Link
+                href="/model/Mercedes_GLC SUV/3"
+              >
+                <a
+                  className="jsx-3831996418 CarGrid_Link"
+                >
+                  <h3
+                    className="jsx-3831996418"
+                  >
+                    <abbr
+                      className="jsx-3831996418"
+                      title="Recommended Retail Price"
+                    >
+                      RRP
+                    </abbr>
+                  </h3>
+                </a>
+              </Link>
+              <Link
+                href="/model/Mercedes_GLC SUV/3"
+              >
+                <a
+                  className="jsx-3831996418 CarGrid_Link"
+                >
+                  <p
+                    className="jsx-3831996418 CarGrid_Price"
+                  >
+                    £
+                    39820
+                  </p>
+                </a>
+              </Link>
+            </div>
+          </section>
+        </div>
+      </li>
+      <li
+        className="jsx-3831996418 CarGrid_ListItem"
+        key="4"
+      >
+        <div
+          className="jsx-3831996418 CarGrid_GridItem"
+        >
+          <section
+            className="jsx-3831996418 CarGrid_Section"
+          >
+            <h2
+              className="jsx-3831996418"
+            >
+              <Link
+                href="/model/Hyundai_i30 N/4"
+              >
+                <a
+                  className="jsx-3831996418 CarGrid_Link"
+                >
+                  Hyundai i30 N
+                </a>
+              </Link>
+            </h2>
+            <Link
+              href="/model/Hyundai_i30 N/4"
+            >
+              <a
+                className="jsx-3831996418 CarGrid_LinkImg"
+              >
+                <img
+                  alt="Hyundai i30 N"
+                  className="jsx-3831996418"
+                  src="https://warm-dawn-92320.herokuapp.com/img/hyundai_i30_n.png"
+                />
+              </a>
+            </Link>
+            <p
+              className="jsx-3831996418"
+            >
+              The Hyundai i30 N is a great-to-drive, quick and practical family car, but you might hanker after alternatives’ more eye-catching looks and faster straight-line performance.
+            </p>
+          </section>
+          <section
+            className="jsx-3831996418 CarGrid_Section__Width"
+          >
+            <div
+              className="jsx-3831996418 CarGrid_Rating"
+            >
+              <h3
+                className="jsx-3831996418"
+              >
+                Rating
+              </h3>
+              <div
+                className="jsx-3831996418"
+              >
+                <span
+                  className="jsx-3831996418 Rating_Star"
+                />
+                <p
+                  className="jsx-3831996418 Rating_Number"
+                >
+                  8
+                  /10
+                </p>
+              </div>
+            </div>
+            <div
+              className="jsx-3831996418 CarGrid_Section__Dark"
+            >
+              <Link
+                href="/model/Hyundai_i30 N/4"
+              >
+                <a
+                  className="jsx-3831996418 CarGrid_Link"
+                >
+                  <h3
+                    className="jsx-3831996418"
+                  >
+                    <abbr
+                      className="jsx-3831996418"
+                      title="Recommended Retail Price"
+                    >
+                      RRP
+                    </abbr>
+                  </h3>
+                </a>
+              </Link>
+              <Link
+                href="/model/Hyundai_i30 N/4"
+              >
+                <a
+                  className="jsx-3831996418 CarGrid_Link"
+                >
+                  <p
+                    className="jsx-3831996418 CarGrid_Price"
+                  >
+                    £
+                    25995
+                  </p>
+                </a>
+              </Link>
+            </div>
+          </section>
+        </div>
+      </li>
+      <li
+        className="jsx-3831996418 CarGrid_ListItem"
+        key="5"
+      >
+        <div
+          className="jsx-3831996418 CarGrid_GridItem"
+        >
+          <section
+            className="jsx-3831996418 CarGrid_Section"
+          >
+            <h2
+              className="jsx-3831996418"
+            >
+              <Link
+                href="/model/Kia_Sportage/5"
+              >
+                <a
+                  className="jsx-3831996418 CarGrid_Link"
+                >
+                  Kia Sportage
+                </a>
+              </Link>
+            </h2>
+            <Link
+              href="/model/Kia_Sportage/5"
+            >
+              <a
+                className="jsx-3831996418 CarGrid_LinkImg"
+              >
+                <img
+                  alt="Kia Sportage"
+                  className="jsx-3831996418"
+                  src="https://warm-dawn-92320.herokuapp.com/img/kia_sportage.png"
+                />
+              </a>
+            </Link>
+            <p
+              className="jsx-3831996418"
+            >
+              The Kia Sportage is worth a look if you’re after a practical family SUV with economical engines and a roomy cabin, but alternatives have bigger boots and more safety kit.
+            </p>
+          </section>
+          <section
+            className="jsx-3831996418 CarGrid_Section__Width"
+          >
+            <div
+              className="jsx-3831996418 CarGrid_Rating"
+            >
+              <h3
+                className="jsx-3831996418"
+              >
+                Rating
+              </h3>
+              <div
+                className="jsx-3831996418"
+              >
+                <span
+                  className="jsx-3831996418 Rating_Star"
+                />
+                <p
+                  className="jsx-3831996418 Rating_Number"
+                >
+                  7
+                  /10
+                </p>
+              </div>
+            </div>
+            <div
+              className="jsx-3831996418 CarGrid_Section__Dark"
+            >
+              <Link
+                href="/model/Kia_Sportage/5"
+              >
+                <a
+                  className="jsx-3831996418 CarGrid_Link"
+                >
+                  <h3
+                    className="jsx-3831996418"
+                  >
+                    <abbr
+                      className="jsx-3831996418"
+                      title="Recommended Retail Price"
+                    >
+                      RRP
+                    </abbr>
+                  </h3>
+                </a>
+              </Link>
+              <Link
+                href="/model/Kia_Sportage/5"
+              >
+                <a
+                  className="jsx-3831996418 CarGrid_Link"
+                >
+                  <p
+                    className="jsx-3831996418 CarGrid_Price"
+                  >
+                    £
+                    20670
+                  </p>
+                </a>
+              </Link>
+            </div>
+          </section>
+        </div>
+      </li>
+      <li
+        className="jsx-3831996418 CarGrid_ListItem"
+        key="6"
+      >
+        <div
+          className="jsx-3831996418 CarGrid_GridItem"
+        >
+          <section
+            className="jsx-3831996418 CarGrid_Section"
+          >
+            <h2
+              className="jsx-3831996418"
+            >
+              <Link
+                href="/model/Mercedes_A-class/6"
+              >
+                <a
+                  className="jsx-3831996418 CarGrid_Link"
+                >
+                  Mercedes A-class
+                </a>
+              </Link>
+            </h2>
+            <Link
+              href="/model/Mercedes_A-class/6"
+            >
+              <a
+                className="jsx-3831996418 CarGrid_LinkImg"
+              >
+                <img
+                  alt="Mercedes A-class"
+                  className="jsx-3831996418"
+                  src="https://warm-dawn-92320.herokuapp.com/img/mercedes_a_class.png"
+                />
+              </a>
+            </Link>
+            <p
+              className="jsx-3831996418"
+            >
+              The Mercedes A-Class is one of the most upmarket, high-tech small cars on sale, but some more old-fashioned alternatives are more affordable and better to drive.
+            </p>
+          </section>
+          <section
+            className="jsx-3831996418 CarGrid_Section__Width"
+          >
+            <div
+              className="jsx-3831996418 CarGrid_Rating"
+            >
+              <h3
+                className="jsx-3831996418"
+              >
+                Rating
+              </h3>
+              <div
+                className="jsx-3831996418"
+              >
+                <span
+                  className="jsx-3831996418 Rating_Star"
+                />
+                <p
+                  className="jsx-3831996418 Rating_Number"
+                >
+                  8
+                  /10
+                </p>
+              </div>
+            </div>
+            <div
+              className="jsx-3831996418 CarGrid_Section__Dark"
+            >
+              <Link
+                href="/model/Mercedes_A-class/6"
+              >
+                <a
+                  className="jsx-3831996418 CarGrid_Link"
+                >
+                  <h3
+                    className="jsx-3831996418"
+                  >
+                    <abbr
+                      className="jsx-3831996418"
+                      title="Recommended Retail Price"
+                    >
+                      RRP
+                    </abbr>
+                  </h3>
+                </a>
+              </Link>
+              <Link
+                href="/model/Mercedes_A-class/6"
+              >
+                <a
+                  className="jsx-3831996418 CarGrid_Link"
+                >
+                  <p
+                    className="jsx-3831996418 CarGrid_Price"
+                  >
+                    £
+                    23160
+                  </p>
+                </a>
+              </Link>
+            </div>
+          </section>
+        </div>
+      </li>
+      <li
+        className="jsx-3831996418 CarGrid_ListItem"
+        key="7"
+      >
+        <div
+          className="jsx-3831996418 CarGrid_GridItem"
+        >
+          <section
+            className="jsx-3831996418 CarGrid_Section"
+          >
+            <h2
+              className="jsx-3831996418"
+            >
+              <Link
+                href="/model/SEAT_Arona/7"
+              >
+                <a
+                  className="jsx-3831996418 CarGrid_Link"
+                >
+                  SEAT Arona
+                </a>
+              </Link>
+            </h2>
+            <Link
+              href="/model/SEAT_Arona/7"
+            >
+              <a
+                className="jsx-3831996418 CarGrid_LinkImg"
+              >
+                <img
+                  alt="SEAT Arona"
+                  className="jsx-3831996418"
+                  src="https://warm-dawn-92320.herokuapp.com/img/seat_arona.png"
+                />
+              </a>
+            </Link>
+            <p
+              className="jsx-3831996418"
+            >
+              The SEAT Arona is a safe and roomy small SUV, even if its higher trims look dear and the interior has some cheap-feeling materials.
+            </p>
+          </section>
+          <section
+            className="jsx-3831996418 CarGrid_Section__Width"
+          >
+            <div
+              className="jsx-3831996418 CarGrid_Rating"
+            >
+              <h3
+                className="jsx-3831996418"
+              >
+                Rating
+              </h3>
+              <div
+                className="jsx-3831996418"
+              >
+                <span
+                  className="jsx-3831996418 Rating_Star"
+                />
+                <p
+                  className="jsx-3831996418 Rating_Number"
+                >
+                  6
+                  /10
+                </p>
+              </div>
+            </div>
+            <div
+              className="jsx-3831996418 CarGrid_Section__Dark"
+            >
+              <Link
+                href="/model/SEAT_Arona/7"
+              >
+                <a
+                  className="jsx-3831996418 CarGrid_Link"
+                >
+                  <h3
+                    className="jsx-3831996418"
+                  >
+                    <abbr
+                      className="jsx-3831996418"
+                      title="Recommended Retail Price"
+                    >
+                      RRP
+                    </abbr>
+                  </h3>
+                </a>
+              </Link>
+              <Link
+                href="/model/SEAT_Arona/7"
+              >
+                <a
+                  className="jsx-3831996418 CarGrid_Link"
+                >
+                  <p
+                    className="jsx-3831996418 CarGrid_Price"
+                  >
+                    £
+                    17580
+                  </p>
+                </a>
+              </Link>
+            </div>
+          </section>
+        </div>
+      </li>
+      <li
+        className="jsx-3831996418 CarGrid_ListItem"
+        key="8"
+      >
+        <div
+          className="jsx-3831996418 CarGrid_GridItem"
+        >
+          <section
+            className="jsx-3831996418 CarGrid_Section"
+          >
+            <h2
+              className="jsx-3831996418"
+            >
+              <Link
+                href="/model/Skoda_Kodiaq/8"
+              >
+                <a
+                  className="jsx-3831996418 CarGrid_Link"
+                >
+                  Skoda Kodiaq
+                </a>
+              </Link>
+            </h2>
+            <Link
+              href="/model/Skoda_Kodiaq/8"
+            >
+              <a
+                className="jsx-3831996418 CarGrid_LinkImg"
+              >
+                <img
+                  alt="Skoda Kodiaq"
+                  className="jsx-3831996418"
+                  src="https://warm-dawn-92320.herokuapp.com/img/skoda_kodiaq.png"
+                />
+              </a>
+            </Link>
+            <p
+              className="jsx-3831996418"
+            >
+              The Skoda Kodiaq is a big, practical family SUV that’s available with seven seats – although the rearmost two are only big enough for kids.
+            </p>
+          </section>
+          <section
+            className="jsx-3831996418 CarGrid_Section__Width"
+          >
+            <div
+              className="jsx-3831996418 CarGrid_Rating"
+            >
+              <h3
+                className="jsx-3831996418"
+              >
+                Rating
+              </h3>
+              <div
+                className="jsx-3831996418"
+              >
+                <span
+                  className="jsx-3831996418 Rating_Star"
+                />
+                <p
+                  className="jsx-3831996418 Rating_Number"
+                >
+                  9
+                  /10
+                </p>
+              </div>
+            </div>
+            <div
+              className="jsx-3831996418 CarGrid_Section__Dark"
+            >
+              <Link
+                href="/model/Skoda_Kodiaq/8"
+              >
+                <a
+                  className="jsx-3831996418 CarGrid_Link"
+                >
+                  <h3
+                    className="jsx-3831996418"
+                  >
+                    <abbr
+                      className="jsx-3831996418"
+                      title="Recommended Retail Price"
+                    >
+                      RRP
+                    </abbr>
+                  </h3>
+                </a>
+              </Link>
+              <Link
+                href="/model/Skoda_Kodiaq/8"
+              >
+                <a
+                  className="jsx-3831996418 CarGrid_Link"
+                >
+                  <p
+                    className="jsx-3831996418 CarGrid_Price"
+                  >
+                    £
+                    26755
+                  </p>
+                </a>
+              </Link>
+            </div>
+          </section>
+        </div>
+      </li>
+    </ol>
+  </div>
+  <JSXStyle
+    id="3831996418"
+  >
+    .CarGrid_Container.jsx-3831996418{max-width:95%;margin:0 auto;}img.jsx-3831996418:hover{background-color:#ebf8ff;}.CarGrid_Link.jsx-3831996418:hover{color:#0072b1;}.CarGrid_Section__Width.jsx-3831996418{width:100%;}.CarGrid_Link.jsx-3831996418{-webkit-text-decoration:none;text-decoration:none;color:black;}.CarGrid_List.jsx-3831996418{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-flow:row wrap;-ms-flex-flow:row wrap;flex-flow:row wrap;-webkit-box-pack:start;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;}.CarGrid_Rating.jsx-3831996418{text-align:center;}.CarGrid_Rating.jsx-3831996418&gt;h3.jsx-3831996418{margin-bottom:12px;}.CarGrid_Price.jsx-3831996418{font-weight:bold;font-size:1.17em;}.CarGrid_Section.jsx-3831996418{padding:10px;}.CarGrid_Section__Dark.jsx-3831996418{padding:10px;background-color:#EEEEEE;}.CarGrid_GridItem.jsx-3831996418{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;height:100%;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;}.CarGrid_ListItem.jsx-3831996418{height:auto;-webkit-flex-basis:24%;-ms-flex-preferred-size:24%;flex-basis:24%;-ms-flex:auto;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;width:259px;position:relative;box-sizing:border-box;background-color:white;margin:2px;border:solid 1px #b1b1b1;}
+  </JSXStyle>
+</div>
+`;
